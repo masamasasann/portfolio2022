@@ -365,6 +365,24 @@ hr{
   margin-right: 10px;
 }
 
+.work_explanation_2-5{
+  position: relative;
+  font-size: 0.8rem;
+  color: #99eb86;
+  font-family: "NotoSansJP", Medium;
+  
+}
+.work_explanation_2-5::before{
+  content: '';/*何も入れない*/
+  display: inline-block;/*忘れずに！*/
+  width: 20px;/*画像の幅*/
+  height: 20px;/*画像の高さ*/
+  background-image: url(../img/design_mark6_10_10.jpg);
+  background-size: contain;
+  vertical-align: middle;
+  margin-right: 10px;
+}
+
 
 
 .work_explanation_3{
@@ -374,6 +392,10 @@ hr{
   vertical-align: top;
   line-height: 1.4rem;
 }
+
+
+
+
 
 /* skill */
 #skill{
