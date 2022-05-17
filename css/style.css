@@ -204,7 +204,7 @@ hr{
 }
 
 .work_explanation{
-  margin-left: 10px;
+  margin-left: 23px;
   text-align: left;
   font-family: "NotoSansJP", Medium;
 }
@@ -393,13 +393,20 @@ hr{
   line-height: 1.4rem;
 }
 
+.work_explanation_3_a{
+  font-size: 0.9rem;
+  margin-top: 32px;
+  font-family: "NotoSansJP", Medium;
+  vertical-align: top;
+  line-height: 1.4rem;
+}
 
 
 
 
 /* skill */
 #skill{
-  height: 780px;
+  height: 900px;
   margin-top: 200px;
   margin-bottom: 50px;
 }
@@ -792,6 +799,7 @@ h4{
 
   .work_explanation_1{
     font-size: 1rem;
+    
   }
   .work_explanation_2-1{
     font-size: 0.5rem;
